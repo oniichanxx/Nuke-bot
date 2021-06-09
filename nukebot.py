@@ -59,4 +59,4 @@ async def spam(ctx):
              await c.send('@everyone ')
              await c.send('@everyone ')
 
-client.run(os.getenv('SECRET3'))
+client.run('YOUR TOKEN HERE')
