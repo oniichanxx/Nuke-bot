@@ -11,7 +11,7 @@ you need to install python, if you don't,
 the program won't work.
 
 (https://www.python.org/downloads/),
-you will also need to install:
+
 
 # tutorial
 
@@ -19,3 +19,4 @@ Video tutorial on youtube (https://youtu.be/dP6tz38KRAs)
 
 
  
+.
