@@ -10,7 +10,7 @@ Before starting the nuke bot,
 you need to install python, if you don't, 
 the program won't work.
 
-(https://www.python.org/downloads/),
+(https://www.python.org/downloads/)
 
 
 # tutorial
@@ -19,4 +19,4 @@ Video tutorial on youtube (https://youtu.be/dP6tz38KRAs)
 
 
  
-.
+. 
