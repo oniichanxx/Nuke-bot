@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands, tasks
 import os
-import keep_alive
 import asyncio
 
 prefix='!'
