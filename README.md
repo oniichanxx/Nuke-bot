@@ -12,4 +12,10 @@ the program won't work.
 
 (https://www.python.org/downloads/),
 you will also need to install:
-https://pypi.org/project/discord.py/
+
+# tutorial
+
+Video tutorial on youtube (https://youtu.be/dP6tz38KRAs) 
+
+
+ 
