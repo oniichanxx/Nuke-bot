@@ -6,7 +6,6 @@ import asyncio
 
 prefix='!'
 n=0
-reason='Server fucked by carnotaurus'
 
 intents=discord.Intents.default()
 intents = discord.Intents(messages=True, guilds=True)
