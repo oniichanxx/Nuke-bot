@@ -22,3 +22,6 @@ If you get any error we suggest to install the discord.py library trough pip,
 the command can be found at:
 https://pypi.org/project/discord.py/
 
+# Support
+For support contact hellonoobs#9858 or Massy#0001
+
