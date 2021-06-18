@@ -23,5 +23,5 @@ the command can be found at:
 https://pypi.org/project/discord.py/
 
 # Support
-For support contact hellonoobs#9858 or Massy#0001
+For support contact hellonoobs#9858
 
