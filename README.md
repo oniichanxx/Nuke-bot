@@ -25,3 +25,6 @@ https://pypi.org/project/discord.py/
 # Support
 For support contact hellonoobs#9858
 
+# Support for Linux and MAC
+Yes, the script will work on MAC and Linux too, you just need python3, open a terminal in the nuker folder and type "python3 nukebot.py"
+
